@@ -2,8 +2,8 @@
 Relógio Digital feito utilizando o Tkinter e Pyglet. 
 
 # Instale o Pyglet e o Tkinter no seu PC ou Terminal da sua IDE
-$ pip install pyglet 
-$ pipi install tkinter 
+$ pip install pyglet\n
+$ pip install tkinter 
 
 # Instruções 
 Use o arquivo main.py
