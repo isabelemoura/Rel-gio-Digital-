@@ -1,4 +1,4 @@
-# Relogio-Digital
+# Relógio Digital
 Relógio Digital feito utilizando o Tkinter e Pyglet. 
 
 # Instale o Pygley
