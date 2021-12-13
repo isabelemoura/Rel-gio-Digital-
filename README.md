@@ -1,8 +1,9 @@
 # Relogio-Digital
 Relógio Digital feito utilizando o Tkinter e Pyglet. 
 
-# Instale o Pyglet e o Tkinter no seu PC ou Terminal da sua IDE
-$ pip install pyglet\n
+# Instale o Pygley
+$ pip install pyglet
+# Instale o Tkinter
 $ pip install tkinter 
 
 # Instruções 
@@ -11,3 +12,6 @@ Use este link para ter acesso as fontes que utilizei neste projeto: https://www.
 
 # Clone do projeto em: 
 https://github.com/isabelemoura/Relogio-Digital
+
+# Replit 
+https://replit.com/@IsabeleAlves/Relogio-Digital
