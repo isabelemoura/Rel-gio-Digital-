@@ -10,8 +10,5 @@ $ pip install tkinter
 Use o arquivo main.py
 Use este link para ter acesso as fontes que utilizei neste projeto: https://www.1001fonts.com/digital-7-font.html
 
-# Clone do projeto em: 
-https://github.com/isabelemoura/Relogio-Digital
-
 # Replit 
 https://replit.com/@IsabeleAlves/Relogio-Digital
